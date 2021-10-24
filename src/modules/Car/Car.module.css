@@ -1,6 +1,7 @@
-.carCheap {
-  border: solid 2px green;
-}
-.carExpensive {
-  border: solid 2px blue;
+li{
+  margin: 15px;
+  background-color: rgba(0, 0, 255, 0.116);
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
 }
